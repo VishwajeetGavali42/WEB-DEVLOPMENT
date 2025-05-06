@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding ="UTF - 8"?>
+<library>
+<book id = "001">
+<title>learning xml</title>
+<author>John Smith</author>
+<year>2020</year>
+</book>
+
+<book id = "002">
+<title>advance xml</title>
+<author>Jane doe</author>
+<year>2021</year>
+</book>
+</library>
